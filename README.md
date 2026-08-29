@@ -3,14 +3,14 @@
 A pixel-focused recreation of the Spotify web player<img width="1328" height="601" alt="spotify" src="https://github.com/user-attachments/assets/6b2c778a-3aac-483f-a060-6e8ee7f233c7" />
  interface sidebar navigation, playlist cards, and a fixed bottom music player, built with plain HTML and CSS to practice matching a real, polished product design.
 
-🔗 **Live Demo:** add-your-link-here
+🔗 **[Live Demo:](https://awaishussainsoomro.github.io/spotify-ui-clone/)**
 📁 **Tech Stack:** HTML, CSS (Flexbox), Font Awesome icons
 
 ![Spotify UI Clone screenshot](add-screenshot-here.png)
 
 ## Why I Built It
 
-UI cloning is a different skill from building from a blank canvas — it forces you to match real spacing, alignment, and layout decisions instead of choosing your own. I picked Spotify specifically because of its layout complexity: a fixed sidebar, a scrollable main panel, and a persistent bottom player bar, all needing to behave correctly together.
+UI cloning is a different skill from building from a blank canvas, it forces you to match real spacing, alignment, and layout decisions instead of choosing your own. I picked Spotify specifically because of its layout complexity: a fixed sidebar, a scrollable main panel, and a persistent bottom player bar, all needing to behave correctly together.
 
 ## What It Does
 
@@ -25,7 +25,7 @@ Recreates the core Spotify web player layout: home/search navigation, a "Your Li
 
 ## Running Locally
 
-No build step needed — it's plain HTML/CSS.
+No build step needed, it's plain HTML/CSS.
 
 ```bash
 git clone https://github.com/awaishussainsoomro/spotify-ui-clone.git
