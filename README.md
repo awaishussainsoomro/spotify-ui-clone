@@ -3,7 +3,7 @@
 A pixel-focused recreation of the Spotify web player<img width="1328" height="601" alt="spotify" src="https://github.com/user-attachments/assets/6b2c778a-3aac-483f-a060-6e8ee7f233c7" />
  interface sidebar navigation, playlist cards, and a fixed bottom music player, built with plain HTML and CSS to practice matching a real, polished product design.
 
-🔗 **[Live Demo:](https://awaishussainsoomro.github.io/spotify-ui-clone/)**
+🔗 **[Live Demo:]**(https://awaishussainsoomro.github.io/spotify-ui-clone/)
 
 📁 **Tech Stack:** HTML, CSS (Flexbox), Font Awesome icons
 
